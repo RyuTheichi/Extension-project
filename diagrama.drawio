@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2023-05-18T17:50:45.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kS2SbX87wNhW_8VIHWtr" version="21.3.2" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="y8FlKkw28SFtit2cXpmW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="y8FlKkw28SFtit2cXpmW-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="99.5" as="sourcePoint" />
+            <mxPoint x="400" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-5" target="y8FlKkw28SFtit2cXpmW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-5" value="Usuario&lt;br&gt;abre chamada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-8" target="y8FlKkw28SFtit2cXpmW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-8" value="Chamadas são&lt;br&gt;exibidos no painel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="70" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-10" target="y8FlKkw28SFtit2cXpmW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-10" value="Analistas de suporte atendem chamados aleatoriamente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-12" value="Contadores dos chamados são zerados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="970" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-14" target="y8FlKkw28SFtit2cXpmW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-14" target="y8FlKkw28SFtit2cXpmW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-14" value="Gestão utiliza os gráficos para direcionar&amp;nbsp; chamados&amp;nbsp; e implementar ações" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-15" target="y8FlKkw28SFtit2cXpmW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-15" value="Ferramenta gera gráficos de desempenho e visualização para a gestão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-17" value="Analista tem acesso a ferramenta para monitorar o seu progresso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="200" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-19" target="y8FlKkw28SFtit2cXpmW-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-19" value="Ferramente exibe painéis&amp;nbsp; com a quantidade de chamados por analista para coordenação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="340" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-22" target="y8FlKkw28SFtit2cXpmW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-22" value=" Gestão realiza ações de gamificação com base nos dados| dos painéis (ex: bonificação para analista com mais&amp;nbsp; chamados atendidos)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="500" width="165" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="y8FlKkw28SFtit2cXpmW-23" target="y8FlKkw28SFtit2cXpmW-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-23" value="&lt;br&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Söhne Mono&amp;quot;, Monaco, &amp;quot;Andale Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, monospace; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(0, 0, 0); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; Analistas monitoram seu progresso e se baseiam nos&lt;br&gt;&amp;nbsp;dados dos painéis para otimizar seu atendimento   &lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="237.5" y="650" width="222.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y8FlKkw28SFtit2cXpmW-25" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
